@@ -1,5 +1,5 @@
 # youtube_downloader
-Step-1: git clone https://github.com/Jaswanth1817/youtube_downloader.git
+Step-1: git clone https://github.com/username/youtube_downloader.git
 
 Step-2: Go inside the project folder, open cmd and type the following commands to install Django Framework and run the webserver:
 
